@@ -1,0 +1,210 @@
+[package]
+name = "advent_of_code_2024"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "1"
+path = "src/bin/1.rs"
+
+[[bin]]
+name = "2"
+path = "src/bin/2.rs"
+
+[[bin]]
+name = "3"
+path = "src/bin/3.rs"
+
+[[bin]]
+name = "4"
+path = "src/bin/4.rs"
+
+[[bin]]
+name = "5"
+path = "src/bin/5.rs"
+
+[[bin]]
+name = "6"
+path = "src/bin/6.rs"
+
+[[bin]]
+name = "7"
+path = "src/bin/7.rs"
+
+[[bin]]
+name = "8"
+path = "src/bin/8.rs"
+
+[[bin]]
+name = "9"
+path = "src/bin/9.rs"
+
+[[bin]]
+name = "10"
+path = "src/bin/10.rs"
+
+[[bin]]
+name = "11"
+path = "src/bin/11.rs"
+
+[[bin]]
+name = "12"
+path = "src/bin/12.rs"
+
+[[bin]]
+name = "13"
+path = "src/bin/13.rs"
+
+[[bin]]
+name = "14"
+path = "src/bin/14.rs"
+
+[[bin]]
+name = "15"
+path = "src/bin/15.rs"
+
+[[bin]]
+name = "16"
+path = "src/bin/16.rs"
+
+[[bin]]
+name = "17"
+path = "src/bin/17.rs"
+
+[[bin]]
+name = "18"
+path = "src/bin/18.rs"
+
+[[bin]]
+name = "19"
+path = "src/bin/19.rs"
+
+[[bin]]
+name = "20"
+path = "src/bin/20.rs"
+
+[[bin]]
+name = "21"
+path = "src/bin/21.rs"
+
+[[bin]]
+name = "22"
+path = "src/bin/22.rs"
+
+[[bin]]
+name = "23"
+path = "src/bin/23.rs"
+
+[[bin]]
+name = "24"
+path = "src/bin/24.rs"
+
+[[bin]]
+name = "25"
+path = "src/bin/25.rs"
+
+[[bin]]
+name = "1_part_2"
+path = "src/bin/1_part_2.rs"
+
+[[bin]]
+name = "2_part_2"
+path = "src/bin/2_part_2.rs"
+
+[[bin]]
+name = "3_part_2"
+path = "src/bin/3_part_2.rs"
+
+[[bin]]
+name = "4_part_2"
+path = "src/bin/4_part_2.rs"
+
+[[bin]]
+name = "5_part_2"
+path = "src/bin/5_part_2.rs"
+
+[[bin]]
+name = "6_part_2"
+path = "src/bin/6_part_2.rs"
+
+[[bin]]
+name = "7_part_2"
+path = "src/bin/7_part_2.rs"
+
+[[bin]]
+name = "8_part_2"
+path = "src/bin/8_part_2.rs"
+
+[[bin]]
+name = "9_part_2"
+path = "src/bin/9_part_2.rs"
+
+[[bin]]
+name = "10_part_2"
+path = "src/bin/10_part_2.rs"
+
+[[bin]]
+name = "11_part_2"
+path = "src/bin/11_part_2.rs"
+
+[[bin]]
+name = "12_part_2"
+path = "src/bin/12_part_2.rs"
+
+[[bin]]
+name = "13_part_2"
+path = "src/bin/13_part_2.rs"
+
+[[bin]]
+name = "14_part_2"
+path = "src/bin/14_part_2.rs"
+
+[[bin]]
+name = "15_part_2"
+path = "src/bin/15_part_2.rs"
+
+[[bin]]
+name = "16_part_2"
+path = "src/bin/16_part_2.rs"
+
+[[bin]]
+name = "17_part_2"
+path = "src/bin/17_part_2.rs"
+
+[[bin]]
+name = "18_part_2"
+path = "src/bin/18_part_2.rs"
+
+[[bin]]
+name = "19_part_2"
+path = "src/bin/19_part_2.rs"
+
+[[bin]]
+name = "20_part_2"
+path = "src/bin/20_part_2.rs"
+
+[[bin]]
+name = "21_part_2"
+path = "src/bin/21_part_2.rs"
+
+[[bin]]
+name = "22_part_2"
+path = "src/bin/22_part_2.rs"
+
+[[bin]]
+name = "23_part_2"
+path = "src/bin/23_part_2.rs"
+
+[[bin]]
+name = "24_part_2"
+path = "src/bin/24_part_2.rs"
+
+[[bin]]
+name = "25_part_2"
+path = "src/bin/25_part_2.rs"
+
+[dependencies]
+regex = "1.11.1"
+
+[build]
+rustflags = ["-C", "prefer-dynamic"]
