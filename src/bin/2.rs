@@ -36,7 +36,7 @@ fn main() {
                 if prev < nr {
                     new_order = Order::Ascending;
                 } else {
-                    new_order = Order::Descending
+                    new_order = Order::Descending;
                 }
 
                 if let Some(prev_order) = order {
